@@ -14,6 +14,6 @@ Repositories:
 
 + [Github Repository](https://github.com/lfhohmann/nerdle-data-analysis)
 + [Kaggle: Equations Generator](https://www.kaggle.com/lucashohmann/nerdle-equations-generator)
-+ [Kaggle: Nerdle  - EDA](https://www.kaggle.com/code/lucashohmann/nerdle-eda)
++ [Kaggle: Nerdle - EDA](https://www.kaggle.com/code/lucashohmann/nerdle-eda)
 + [Kaggle: Nerdle Mini - EDA](https://www.kaggle.com/code/lucashohmann/nerdle-mini-eda)
 + [Kaggle: Nerdle Mini - Simulator](https://www.kaggle.com/code/lucashohmann/nerdle-mini-simulator)
