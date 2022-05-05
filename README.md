@@ -6,6 +6,14 @@
 
 ## This repository contains
 
-+ Equations Generator, that outputs all valid equations for both "mini" and "regular" modes
-+ Data Analysis of the valid equations
-+ Simulations to test out best strategies to win the game
++ Equations Generator for both "mini nerdle" and "nerdle" game modes
++ Exploratory Data Analysis
++ Simulations
+
+Repositories:
+
++ [Github Repository](https://github.com/lfhohmann/nerdle-data-analysis)
++ [Kaggle: Equations Generator](https://www.kaggle.com/lucashohmann/nerdle-equations-generator)
++ [Kaggle: Nerdle  - EDA](https://www.kaggle.com/code/lucashohmann/nerdle-eda)
++ [Kaggle: Nerdle Mini - EDA](https://www.kaggle.com/code/lucashohmann/nerdle-mini-eda)
++ [Kaggle: Nerdle Mini - Simulator](https://www.kaggle.com/code/lucashohmann/nerdle-mini-simulator)
